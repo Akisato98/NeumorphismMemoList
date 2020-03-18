@@ -2,6 +2,7 @@
 udemyで見ながら作っている、ニューモフィズムデザインのメモアプリです（20'3/18途中）。
 
 ↓ 完成形イメージ
+<br clear="both">
 ログイン画面
 ![Sign in.png](https://github.com/Akisato98/NeumorphismMemoList/blob/master/Sign%20in.png)
 <br clear="both">
